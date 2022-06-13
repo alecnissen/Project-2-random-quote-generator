@@ -1,0 +1,27 @@
+body {
+    background-color: purple;
+
+}
+
+#container {
+    background-color: red;
+    border:10px solid;
+    height: 400px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 75px auto;
+    height: 75px;
+    width: 250px;
+    font-size: 22px;
+    background-color: purple;
+}
+
+#output {
+    margin: 25px auto;
+    font-size:22px;
+    color:white;
+}
